@@ -12,7 +12,7 @@ body{
     overflow: hidden;
 }
 
-/* header start */
+
 .navbar{
     display: flex;
     align-items: center;
@@ -121,9 +121,8 @@ body{
     color: #fff;
     transition: all .5s ease-in-out;
 }
-/* header end */
 
-/* banner start */
+
 .banner-main{
     padding: 96px 0;
     position: relative;
@@ -225,9 +224,8 @@ body{
     color: #6415ff;
     opacity: 0.25;
 }
-/* banner end */
 
-/* latest offers start */
+
 .offers-main{
     padding: 96px 0;
     position: relative;
@@ -277,9 +275,8 @@ body{
     color: #6415ff;
     opacity: 0.25;
 }
-/* latest offers end */
 
-/* our menu start */
+
 .our-menu-main{
     padding: 96px 0;
     position: relative;
@@ -371,4 +368,3 @@ body{
     color: #f687b3;
     opacity: 0.15;
 }
-/* our menu end */
