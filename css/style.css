@@ -417,7 +417,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    transform: translateY(-100%);
+    transform: translateY(-80px);
     transition: all .3s ease-in-out;    
 }
   
